@@ -59,7 +59,7 @@
 
 
 
-## CONTACT 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 TECH
+## CONTACT 𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀 𝐓𝐄𝐂𝐇 TECH
   
 <a href="https://wa.me/2348135138141"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029Vb3Vx4jCBtx6yFD45S19"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -83,7 +83,7 @@
 
 ## 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 +MAKE;         STAR ⭐+AND+FORKS+BY+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 +MAKE;STAR ⭐+AND+FORKS+BY+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1" alt="Typing SVG" /></a>
 
 
 
