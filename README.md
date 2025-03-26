@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://i.imgur.com/A5qc9H2.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+ultimatum-+v1__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀+_MD+TECHS;RELEASED+DATE+26%3F7%2F2025."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+ultimatum-+v1__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐈𝐒𝐀𝐀𝐂 𝐀𝐑𝐈𝐍𝐎𝐋𝐀+_MD+TECHS;RELEASED+DATE+26%2F7%2F2025."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ultimatum_v1-red.svg?style=for-the-badge&logo=github"></a>
@@ -22,7 +22,7 @@
 
  <p align="center">
   <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/Redmi- WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+    <img src="Ultimatum WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
