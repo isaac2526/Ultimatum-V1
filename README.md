@@ -18,11 +18,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/isaac2526"><img title="Author" src="https://img.shields.io/badge/ultimatum_v1-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb3Vx4jCBtx6yFD45S19"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2348135138141"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
-<p/>
-
- <p align="center">
-  <a href="https://kg-site-support.vercel.app/">
-    <img src="Ultimatum WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
@@ -31,8 +26,9 @@
 <a href="https://github.com/isaac2526/Ultimatum-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/isaac2526/Ultimatum-V1?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/isaac2526/Ultimatum-V1/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/isaac2526/Ultimatum-V1A/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="Ultimatum_v1Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+        <a href = ""><img alt="Ultimatum-v1 Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
+   
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/isaac2526/Ultimatum-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
