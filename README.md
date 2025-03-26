@@ -76,14 +76,14 @@
 
 
 <p align="center">
-    <a href="https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10">
-        <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <a href="https://whatsapp.com/channel/0029Vb3Vx4jCBtx6yFD45S19">
+        <img height="30" title="SUPPORT CHANNEL" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
 
 ## 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 +MAKE; STAR ⭐+AND+FORKS+BY+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1 +MAKE;         STAR ⭐+AND+FORKS+BY+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐔𝐌-𝐕1" alt="Typing SVG" /></a>
 
 
 
